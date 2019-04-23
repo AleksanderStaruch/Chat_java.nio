@@ -111,7 +111,6 @@ public class Server extends JFrame {
 
     }
 
-
     public Server() {
         try{
             //gui
